@@ -1,0 +1,6 @@
+projectKey=mahprj
+serverUrl=http://localhost:9000
+serverVersion=10.2.1.78527
+dashboardUrl=http://localhost:9000/dashboard?id=xuanphi
+ceTaskId=AYu4Gbhxm_ASwVjq3zYW
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYu4Gbhxm_ASwVjq3zYW
